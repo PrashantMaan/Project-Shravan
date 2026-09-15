@@ -5,7 +5,33 @@ Shravana is an elder healthcare web platform designed to help senior citizens st
 The platform brings important healthcare and wellness features together into a single, easy-to-use web application.
 
 ---
+## 📸 Screenshots
 
+### 🏠 Landing Page
+
+![Shravana Landing Page](public/screenshots/landing.png)
+
+### ❤️ Health Vitals
+
+![Health Vitals](public/screenshots/vitals.png)
+
+### 📊 Health Profile
+
+![Health Profile](public/screenshots/profile.png)
+
+### 👥 Community
+
+![Community](public/screenshots/community.png)
+
+### 🤖 Posture Detection
+
+![Posture Detection](public/screenshots/posture.png)
+
+### 🏃 Exercise & Wellness
+
+![Exercise and Wellness](public/screenshots/workout.png)
+
+---
 ## 🚀 Features
 
 ### 👨‍👩‍👧 Parent & Caregiver Roles
